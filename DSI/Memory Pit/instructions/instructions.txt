@@ -1,0 +1,20 @@
+1 Open the DSi Camera app
+2 Tap the SD card card icon and open the album  
+    The screen should flash magenta.
+3 TwiLight Menu++ should launch, launch DumpTool, and click A to dump your NAND.
+4 Turn off your DSI and back up the NAND dump.
+5 Turn on your console and relaunch TWiLight Menu++.
+Optional_________________________________________
+6 Press L or R until you reach Unlaunch Settings.
+7 Select your Unlaunch background. 
+Exit TWiLight Menu++ Settings
+_____________________________
+8 Launch Unlaunch DSI Installer
+    If you see two black screens, restart the console, relaunch TWiLight Menu++, and launch GodMode9i then restart step 8.
+9 Select "Install Now"
+10 Restart the console while holding A and B, Navigate to OPTIONS.
+11 Set the No Button, A, B, X, and Y options to what your DSI loads at boot depending on which buttons are held. The No Button option will launch whatever you set it to by default. 
+12 Delete the sd:/private/ds/app/484E494A/pit.bin file from your SD card
+13 Rename tip.bin back to pit.bin, and leave it intact
+14 You can now restore the DCIM folder that was on the root of your SD card
+15 Delete the UNLAUNCH.DSI file from your SD card
