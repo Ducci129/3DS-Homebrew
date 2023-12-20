@@ -16,5 +16,4 @@ _____________________________
 11 Set the No Button, A, B, X, and Y options to what your DSI loads at boot depending on which buttons are held. The No Button option will launch whatever you set it to by default. 
 12 Delete the sd:/private/ds/app/484E494A/pit.bin file from your SD card
 13 Rename tip.bin back to pit.bin, and leave it intact
-14 You can now restore the DCIM folder that was on the root of your SD card
-15 Delete the UNLAUNCH.DSI file from your SD card
+14 Delete the UNLAUNCH.DSI file from your SD card
