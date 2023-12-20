@@ -1,0 +1,55 @@
+Installing CFW-
+
+1 Go to https://zoogie.github.io/web/super/
+
+2 Open the camera and scan the USA QR code in ./instructionsig.
+
+3 Press select, and bookmark the page.
+
+4 Click B to return, click Start, click Settings, delete cookies, and press A. 
+
+5 Press home, then press A to relaunch the browser.
+
+6 Select the GO GO! button and approve all prompts.
+
+	If the screen freezes yellow, hold the power button until it turns off, then retry.
+
+	If the screen freezes red, hold power until it turns off, then restart from step 3.
+
+	If the bottom screen shows text, then ur dumb and didn't know ur using an old 3DS. Stupid..... L.
+
+7 If the console launches into HBLauncher, launcher nimdsphax from there.
+
+8 Console should launch into SafeB9Installer.
+
+	If the console freezes on a red or green screen, hold the power button until it turns off, then retry.
+
+9 Input combo on top screen to install boot9strap, when finished press A to reboot.
+
+10 Console should launch into the Luma3ds Config Menu, press start to reboot. 
+
+__________________________________________________________________________________________
+
+Finalizing-
+
+1 Turn off the console, then hold power while holding select.
+
+	If the console boots into the Luma3ds Config Menu, continue, else restart the Installing CFW section.
+
+2 Go to System Settings, other Settings, then select System Update.
+
+	If an update completes or "Your system is up to date" appears, continue. Else set DNS and Proxy to auto and try again.
+
+3 Hold the Left Trigger, D-Pad Down, and Select to open the Rosalina menu.
+
+4 Select Miscellaneous options, Dump DSP firmware, click B, Select Nullify user time offset, then click B 3 times.
+
+5 Power off the console, then hold start and power.
+
+	Approve all prompts. If prompted to fix the RTC date, press A to set the date and time, and press A to continue.
+
+6 press home, select Scripts, Finalize, and answer any questions asked. When the script says "Script Complete" press A to power off the console.
+
+7 Copy /gm9/backups/ to a safe location.
+
+8 Delete the two SysNAND files from the /gm9/backups/ folder from the SD card.
