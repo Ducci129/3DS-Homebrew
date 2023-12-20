@@ -1,0 +1,20 @@
+1 Boot the DSI and launch the DSI Browser app.
+2 Touch the Go to Page button.
+3 Type opera:about, and touch Go to load the page.
+4 Touch the HOME icon.
+5 Touch the Go to Page button.
+6 Type stylehax.net, and touch Go to load the page.
+    The exploit should take 21 seconds to take effect. If it takes longer than 30 seconds, then reboot, and try again.
+7 launch DumpTool, and click A to dump your NAND.
+8 Turn off your DSI and back up the NAND dump.
+9 Turn on your console and relaunch TWiLight Menu++
+Optional_________________________________________
+10 Press L or R until you reach Unlaunch Settings.
+11 Select your Unlaunch background. 
+Exit TWiLight Menu++ Settings
+_____________________________
+12 Launch Unlaunch DSI Installer
+    If you see two black screens, restart the console, relaunch TWiLight Menu++, and launch GodMode9i then restart step 8.
+13 Select "Install Now"
+14 Restart the console while holding A and B, Navigate to OPTIONS.
+15 Set the No Button, A, B, X, and Y options to what your DSI loads at boot depending on which buttons are held. The No Button option will launch whatever you set it to by default.
